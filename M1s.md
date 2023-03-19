@@ -3,7 +3,7 @@
 Sipeed dev Module with BL808 risc-v CPUs
 see https://www.seeedstudio.com/Sipeed-M1s-Dock-AI-with-1-69-Inch-CTP-p-5545.html
 
-- RISC-V three CPU 480 MHz - BL808
+- RISC-V three CPUs - BL808
 - NPU - BLAI-100
 - WiFi 2.4G
 - BT 5
