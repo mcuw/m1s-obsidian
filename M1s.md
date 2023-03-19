@@ -1,6 +1,6 @@
 # M1s
 
-Sipeed dev Module with BL808 risc-v CPUs
+Sipeed dev Module with BL808 RISC-V CPUs and NPU,
 
 see https://www.seeedstudio.com/Sipeed-M1s-Dock-AI-with-1-69-Inch-CTP-p-5545.html
 
